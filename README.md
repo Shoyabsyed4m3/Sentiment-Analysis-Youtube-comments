@@ -10,7 +10,8 @@ sentiment analysis of comments on a youtube video using deeplearning Neural Netw
 # Applications
 It can be used by youtube content creators and channel owners to analyse the response of audience viewing and commenting on their videos. Since there are millions of comments made on youtube each day it can become difficult to read all the comments on a video, but since it is also important to know the feedback and what people think of a video or a particular content this can be used as youtube report to know if the comments on a video are **Positive, Negative or Neutral**. This is made interactive and easy to understand by concluding the report with **final result** of all the calculations and a **piechart** containing info about percentage of `positive`, `negative` and `neutral` comments.
 
-https://github.com/Shoyabsyed4m3/Sentiment-Analysis-Youtube-comments/blob/master/Output.PNG
+![Output](https://user-images.githubusercontent.com/63922881/87576304-c94cef80-c6ee-11ea-9ce1-8dd710c16d46.PNG)
+
 
 
 # To run this
