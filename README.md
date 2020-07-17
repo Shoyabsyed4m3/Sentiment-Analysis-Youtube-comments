@@ -32,7 +32,7 @@ python Libraries required. `Run:`
 3. Create Credentials.
 4. Download the credentials to `client_secrets.json`.
 
-Go through this link for details
+Go through this link for details <br/>
 https://python.gotrained.com/youtube-api-extracting-comments/#:~:text=Select%20the%20Credentials%20tab%2C%20click,right%20of%20the%20client%20ID.
 
 
