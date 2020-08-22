@@ -2,7 +2,7 @@
 sentiment analysis of comments on a youtube video using deeplearning Neural Networks and "Youtube Data API".
 I used Youtube API to extract comments from a youtube video.By using python library 'VADER'  I differentiate the comments it to Negative, Positive and Neutral.
 
-# What is VADER
+# What is VADER 
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. VADER uses a combination of A sentiment lexicon is a list of lexical features (e.g., words) which are generally labeled according to their semantic orientation as either positive or negative. VADER not only tells about the Positivity and Negativity score but also tells us about how positive or negative a sentiment is.
 
 # Scoring Procedure
